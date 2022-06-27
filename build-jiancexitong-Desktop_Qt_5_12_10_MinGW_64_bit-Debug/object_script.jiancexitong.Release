@@ -1,0 +1,12 @@
+release/main.o
+release/mainwindow.o
+release/qmythread.o
+release/drawfuction.o
+release/qtosql.o
+release/qshowsql.o
+release/qrc_res.o
+release/moc_mainwindow.o
+release/moc_qmythread.o
+release/moc_drawfuction.o
+release/moc_qtosql.o
+release/moc_qshowsql.o

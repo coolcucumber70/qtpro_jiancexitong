@@ -1,0 +1,12 @@
+debug/main.o
+debug/mainwindow.o
+debug/qmythread.o
+debug/drawfuction.o
+debug/qtosql.o
+debug/qshowsql.o
+debug/qrc_res.o
+debug/moc_mainwindow.o
+debug/moc_qmythread.o
+debug/moc_drawfuction.o
+debug/moc_qtosql.o
+debug/moc_qshowsql.o
